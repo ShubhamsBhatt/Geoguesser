@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Geoguesser/static/css/main.5816c59b.css",
-    "main.js": "/Geoguesser/static/js/main.c5e0f15a.js",
-    "index.html": "/Geoguesser/index.html",
-    "main.5816c59b.css.map": "/Geoguesser/static/css/main.5816c59b.css.map",
-    "main.c5e0f15a.js.map": "/Geoguesser/static/js/main.c5e0f15a.js.map"
+    "main.css": "/geoguesser/static/css/main.5816c59b.css",
+    "main.js": "/geoguesser/static/js/main.c5e0f15a.js",
+    "index.html": "/geoguesser/index.html",
+    "main.5816c59b.css.map": "/geoguesser/static/css/main.5816c59b.css.map",
+    "main.c5e0f15a.js.map": "/geoguesser/static/js/main.c5e0f15a.js.map"
   },
   "entrypoints": [
     "static/css/main.5816c59b.css",
