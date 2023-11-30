@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/Geoguesser/static/css/main.c83163b8.css",
-    "main.js": "/Geoguesser/static/js/main.0648adc7.js",
+    "main.css": "/Geoguesser/static/css/main.e84c31f1.css",
+    "main.js": "/Geoguesser/static/js/main.b30e7c2a.js",
+    "static/media/UCB.png": "/Geoguesser/static/media/UCB.30ce5a3a4e9bd3ac3d11.png",
+    "static/media/Downtown.png": "/Geoguesser/static/media/Downtown.0119f3b4844ff0a7c407.png",
+    "static/media/Squires.png": "/Geoguesser/static/media/Squires.e22cf0acdff5a721ff70.png",
+    "static/media/Gables.png": "/Geoguesser/static/media/Gables.06844f787e42b5525e14.png",
+    "static/media/accuracy.png": "/Geoguesser/static/media/accuracy.d3c903d23a249268c91d.png",
+    "static/media/loss.png": "/Geoguesser/static/media/loss.be2a292eb6229f7f2457.png",
+    "static/media/confusionMatrix.png": "/Geoguesser/static/media/confusionMatrix.69c0026d09f64314ace4.png",
+    "static/media/result.png": "/Geoguesser/static/media/result.32be0e31ecfdc10ed850.png",
     "index.html": "/Geoguesser/index.html",
-    "main.c83163b8.css.map": "/Geoguesser/static/css/main.c83163b8.css.map",
-    "main.0648adc7.js.map": "/Geoguesser/static/js/main.0648adc7.js.map"
+    "main.e84c31f1.css.map": "/Geoguesser/static/css/main.e84c31f1.css.map",
+    "main.b30e7c2a.js.map": "/Geoguesser/static/js/main.b30e7c2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c83163b8.css",
-    "static/js/main.0648adc7.js"
+    "static/css/main.e84c31f1.css",
+    "static/js/main.b30e7c2a.js"
   ]
 }
